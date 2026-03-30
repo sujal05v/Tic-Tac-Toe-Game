@@ -4,8 +4,7 @@ A simple Tic Tac Toe game built using Python and Tkinter, where two players can 
 
 # 💡 Overview
 
-This project was created by following a YouTube tutorial as part of my Python learning journey.
-It helped me understand GUI development and how to implement game logic in Python.
+This project was created as part of my Python learning journey. It helped me understand GUI development and how to implement game logic in Python.\
 
 # ⚙️ Features
   * 🎮 Two-player game (X vs O)
